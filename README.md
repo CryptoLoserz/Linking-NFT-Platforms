@@ -1,8 +1,2 @@
 # Linking-NFT-Platforms
-echo "# Linking-NFT-Platforms" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/CryptoLoserz/Linking-NFT-Platforms.git
-git push -u origin main
+= A Platform that allows NFT artist and creators post their NFTs on multiple platforms at with one click of a button or app or site. The creators will be able to choose what platforms they want to choose from or would like to post their NFT creations from.
